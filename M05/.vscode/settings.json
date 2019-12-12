@@ -1,0 +1,6 @@
+{
+    "files.associations": {
+        "collisionmap.h": "c"
+    },
+    "git.ignoreLimitWarning": true
+}
